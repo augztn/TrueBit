@@ -1,0 +1,6 @@
+{
+  "name": "TrueBit",
+  "description": "Lossless audio scanner, duplicate detector, FFT spectral verifier, and bit-depth audit utility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

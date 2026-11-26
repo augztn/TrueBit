@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TrueBit</string>
+    <string name="nav_dashboard">Scanner</string>
+    <string name="nav_duplicates">Duplicates</string>
+    <string name="nav_inspector">Inspector</string>
+    <string name="nav_trash">Trash</string>
+    <string name="hero_title">TrueBit DSP Engine</string>
+    <string name="hero_subtitle">Bit-Plane &amp; Spectral Lossless Verifier</string>
+    <string name="btn_select_folder">Add Storage Folder (SAF)</string>
+    <string name="btn_generate_lab">Load Lossless Test Bench</string>
+    <string name="btn_start_scan">Run Spectral Audit</string>
+    <string name="btn_inspect_single">Inspect Single Audio File</string>
+    <string name="scan_mode_deep">Deep FFT Spectral &amp; Bit-Plane Audit</string>
+    <string name="scan_mode_quick">Quick Header &amp; Hash Scan</string>
+    <string name="stat_total_tracks">Total Tracks</string>
+    <string name="stat_true_lossless">True Lossless</string>
+    <string name="stat_fake_upsampled">Fake / Padded</string>
+    <string name="stat_reclaimable">Reclaimable</string>
+    <string name="filter_all">All Duplicates</string>
+    <string name="filter_bit_depth">16-bit vs 24/32-bit</string>
+    <string name="filter_fake">Fake Lossless</string>
+    <string name="filter_exact">Exact Copies</string>
+    <string name="btn_move_to_trash">Quarantine to .TrueBit_Trash</string>
+    <string name="btn_delete_permanent">Permanent SAF Delete</string>
+    <string name="btn_restore_all">Restore Quarantined</string>
+    <string name="btn_empty_trash">Purge Trash Permanently</string>
+    <string name="theme_toggle_desc">Toggle Obsidian Dark / Liquid Glass Light Theme</string>
+</resources>
